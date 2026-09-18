@@ -152,7 +152,7 @@ The chatbot retrieves relevant passages from the selected book and generates ans
 
 ---
 
-# 🏆 Bonus: Chunking Strategy Comparison
+## Chunking Strategy Comparison
 
 As a bonus experiment, two different chunking strategies were compared to evaluate their effect on evidence retrieval.
 
